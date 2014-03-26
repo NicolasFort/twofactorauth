@@ -256,6 +256,17 @@ sections:
           img: simple.png
           tfa: No
 
+        - name: TBC Bank
+          url: http://www.tbcbank.ge/
+          img: tbcbank.png
+          tfa: Yes
+          doc: http://www.tbcbank.ge/en/private/banking/tbc_digipass/?id=2425
+          custom:
+            - icon: android
+              url: https://play.google.com/store/apps/details?id=ge.tbcbank&feature=search_result#?t=W251bGwsMSwyLDEsImdlLnRiY2JhbmsiXQ..
+            - icon: apple
+              url: https://itunes.apple.com/app/tbc-digipass/id591074895?ign-mpt=uo%3D6&mt=8
+        
         - name: Vanguard
           url: http://www.vanguard.com/
           twitter: Vanguard_Group
